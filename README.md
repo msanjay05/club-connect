@@ -1,1 +1,1 @@
-# club-connect
+# makeathon

@@ -1,0 +1,9 @@
+* Paste The Folder in the htdocs in Case Of Xampp & www in case of Wampp
+
+*open Phpmyadmin & create Database with name "club_connect"
+
+*now import the all .sql files into this Database
+
+*start the local Server
+
+*Now You Can Enjoy
